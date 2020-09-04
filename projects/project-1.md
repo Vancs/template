@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/rover.jpg
+image: images/rover.png
 title: Rover
 permalink: projects/Rover
 # All dates must be YYYY-MM-DD format!
