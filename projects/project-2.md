@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/vacay-square.png
 title: AU CSC Teacher Schedules Webpage Application
-permalink: projects/vacay
+permalink: projects/aucscschedule
 # All dates must be YYYY-MM-DD format!
 date: 2015-12-15
 labels:
