@@ -89,40 +89,53 @@
       "summary": "Work in a team of computer specialists that provide computer, network, IT support to the Plano Community School District",
       "highlights": [
         "Maintain, Update, and Provide any and all workers and students within the Plano School district with the necessary technology",
-        "Be able to provide on the spot help or quick fixes on any computer or technology issues that may occur"
+        "Be able to provide on the spot help or quick fixes on any computer or technology issues that may occur",
+        "Respond to all helpdesk inquiries and requests in a timely manner."
       ]
     },
     {
-      "company": "",
-      "position": "",
+      "company": "Walmart",
+      "position": "Sales Associate",
       "website": "",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "startDate": "2017-05-01",
+      "endDate": "2018-08-15",
+      "summary": "Work in a team in order to move stock from the storage room/area to the salesfloor and provide excellent coustomer assistance.",
       "highlights": [
-        "",
-        ""
+        "Answer customers' questions about merchandise and advise customers on merchandise selection.",
+        "Stock shelves, racks, cases, bins, and tables with new or transferred merchandise.",
+        "Receive, open, unpack and issue sales floor merchandise.Clean display cases, shelves, and aisles."
+      ]
+    }
+    {
+      "company": "Burger King",
+      "position": "Crew Member",
+      "website": "",
+      "startDate": "2014-06-20",
+      "endDate": "2016-08-05",
+      "summary": " Properly and respectfully take the customers orders as well to be able to work in a team to get any and all orders out in a well and timely manner.",
+      "highlights": [
+        "Maintain sanitation, health, and safety standards in work areas; as well as keeping sanitation standards in prep and food stations",
+        "Maintained customer satisfaction, as well as continously helped customers frequently."
       ]
     }
   ],
   "awards": [
     {
-      "title": "",
+      "title": "Staff of the Month",
       "date": "",
-      "awarder": "",
-      "summary": ""
+      "awarder": "District Technology Coordinator",
+      "summary": "In response for the hard work and time dedicated in projects in order for them to be completed within a single week."
     },
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
-    }
   ],
   "references": [
     {
-      "name": "",
-      "reference": ""
-    }
+      "name": "Jose Jimenez",
+      "reference": " Coworker at Plano C.U.S.D #88"
+    },
+    {
+      "name": "Osvaldo Lopez",
+      "reference": " Coworker at Plano C.U.S.D #88"
+      
+    },
   ]
 }
